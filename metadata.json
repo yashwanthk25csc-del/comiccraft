@@ -1,0 +1,7 @@
+{
+  "name": "ComicCraft AI",
+  "description": "AI-powered comic story creation platform that transforms your ideas into full comic books with Gemini AI, featuring interactive panels, character management, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
